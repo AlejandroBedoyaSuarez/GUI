@@ -12,7 +12,7 @@ public class ParesImpares {
 
         System.out.println("\nNúmeros impares:");
         for (int i = 1; i <= limite; i++) {
-            if (i % 2 != 0) {
+            if (i % 2 != 0) { 
                 System.out.print(i + " ");
             }
         }

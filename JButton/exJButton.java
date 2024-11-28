@@ -24,6 +24,7 @@ public class exJButton {
             JOptionPane.showMessageDialog(ventana, "Presionaste el botón");
         } 
     });
+
     //añadimos el botón al marco
     ventana.add(boton);
     //hacer que se visualice 
